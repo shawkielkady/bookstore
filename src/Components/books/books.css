@@ -1,0 +1,12 @@
+.book-list{
+    margin: 50px auto;
+    transform: translateX(5%);
+}
+.space-between{
+    justify-content: space-between;
+}
+.book{
+    border: 2px solid #eee;
+    border-radius: 6px;
+    padding: 10px 5px;
+}
